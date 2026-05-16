@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+scipy>=1.13
+matplotlib>=3.9
+seaborn>=0.13
+tqdm>=4.66
+python-docx>=1.1
+# Quantum stack (optional but required for Q-kernel experiments)
+qiskit>=1.2
+qiskit-aer>=0.15
+qiskit-machine-learning>=0.8

@@ -1,0 +1,13 @@
+dataset,model,qubits,accuracy,runtime_sec
+welfake,LogisticRegression,4,0.756,
+welfake,RandomForest,4,0.72,
+welfake,SVM_RBF,4,0.776,
+welfake,QKernel_Pauli_Pegasos,4,0.748,0.004621744155883789
+welfake,LogisticRegression,6,0.804,
+welfake,RandomForest,6,0.764,
+welfake,SVM_RBF,6,0.8,
+welfake,QKernel_Pauli_Pegasos,6,0.796,0.0032701492309570312
+welfake,LogisticRegression,8,0.804,
+welfake,RandomForest,8,0.764,
+welfake,SVM_RBF,8,0.784,
+welfake,QKernel_Pauli_Pegasos,8,0.788,0.0034232139587402344

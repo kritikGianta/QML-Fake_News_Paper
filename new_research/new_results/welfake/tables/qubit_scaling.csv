@@ -1,0 +1,13 @@
+dataset,model,qubits,accuracy,runtime_sec,n_support,condition_number,kernel_alignment,shots
+welfake,LogisticRegression,4,0.748,0.22966313362121582,,,,
+welfake,RandomForest,4,0.764,0.22966313362121582,,,,
+welfake,SVM_RBF,4,0.784,0.22966313362121582,,,,
+welfake,QKernel_Pauli_Pegasos,4,0.772,0.015414714813232422,172.0,41680974.53419476,0.01915336436284912,128.0
+welfake,LogisticRegression,6,0.82,0.2185049057006836,,,,
+welfake,RandomForest,6,0.792,0.2185049057006836,,,,
+welfake,SVM_RBF,6,0.82,0.2185049057006836,,,,
+welfake,QKernel_Pauli_Pegasos,6,0.816,0.004214286804199219,162.0,25199002.384540234,0.017939681157492112,128.0
+welfake,LogisticRegression,8,0.836,0.22223567962646484,,,,
+welfake,RandomForest,8,0.852,0.22223567962646484,,,,
+welfake,SVM_RBF,8,0.852,0.22223567962646484,,,,
+welfake,QKernel_Pauli_Pegasos,8,0.82,0.003989219665527344,136.0,797403.1158840953,0.03806588344795475,128.0

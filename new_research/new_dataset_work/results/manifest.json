@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "qubits_list": [
+    4,
+    6,
+    8
+  ],
+  "shots": 128,
+  "pegasos_iters": 100,
+  "lambda_reg": 0.02,
+  "reps": 2,
+  "n_train_q": 250,
+  "n_test_q": 250,
+  "tfidf_max_features": 20000
+}

@@ -1,0 +1,19 @@
+{
+  "n_samples": 2016,
+  "n_features": 7,
+  "n_features_poly2": 35,
+  "n_features_engineered": 24,
+  "pca2_explained_variance": 0.9988931585666949,
+  "pca2_engineered_explained_variance": 0.9971222197497778,
+  "baselines_full_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\baselines_full.csv",
+  "baselines_full_cv_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\baselines_full_cv.csv",
+  "baselines_pca2_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\baselines_pca2.csv",
+  "baselines_pca2_cv_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\baselines_pca2_cv.csv",
+  "quantum_featuremap_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\quantum_featuremap_comparison.csv",
+  "kernel_diagnostics_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\kernel_diagnostics.csv",
+  "geometry_performance_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\kernel_geometry_performance.csv",
+  "geometry_correlations_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\kernel_geometry_correlations.csv",
+  "pca_tradeoff_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\pca_qubits_tradeoff.csv",
+  "noise_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\noise_robustness.csv",
+  "pegasos_convergence_path": "C:\\Users\\kriti\\Downloads\\QML-paper\\new_research\\outputs\\tables\\pegasos_convergence.csv"
+}
